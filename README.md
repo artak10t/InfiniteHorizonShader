@@ -1,13 +1,13 @@
 # InfiniteHorizonShader
 
-![]("Horizon")
+![]("Horizon.png")
 
 InfinitHorizonShader is a shader for making illusion of infinite horizon line, very useful for creating ocean scenes.
 
 ## How To Use
 
 Drop cylinder model into your scene, create new material with InfiniteHorizon shader, and add texture.
-![]("Scene")
+![]("Scene.png")
 
 ## :clipboard: Meta
 
